@@ -1,0 +1,1 @@
+kj /fi "pid ne %*"
